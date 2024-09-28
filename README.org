@@ -1,0 +1,3 @@
+#+TITLE: GTFO in Lisp
+
+Get those file organized, written in Common Lisp (~sbcl~).
