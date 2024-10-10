@@ -1,6 +1,3 @@
-;; (uiop:native-namestring "~/.emacs.d/")
-;; "/home/me/.emacs.d/"
-
 (require 'asdf)
 
 (asdf:load-system :uiop)
